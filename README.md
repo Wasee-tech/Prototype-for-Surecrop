@@ -1,2 +1,2 @@
-# Prototype-for-Surecrop
+Surecrop
 This is our prototype front end part 
